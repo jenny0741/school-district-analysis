@@ -1,1 +1,6 @@
-# school-district-analysis
+# School District Analysis (Give different title)
+## Purpose
+
+## Results
+
+## Summary
