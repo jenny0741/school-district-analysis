@@ -4,7 +4,14 @@ Analysis conducted on standardized test data is used to provide insight on perfo
 
 ## Results
 
-### District Summary
+### •	District Summary
+### •	School Summary
+### •	Affect on Thomas High School’s performance
+### •	Affect on:
+    o	Math and reading scores:
+    o	Scores by school spending:
+    o	Scores by school size:
+    o	Scores by school type:
 
 
 
