@@ -32,12 +32,21 @@ By changing all ninth-grade scores to NaN, there was no major affect on the perf
 ![top5_after_ninth_grade_change](top5_after_ninth_grade_change.png)
 
 ### •	Affect on:
-    o	Math and reading scores:
-    o	Scores by school spending:
-    o	Scores by school size:
-    o	Scores by school type:
+    oMath and reading scores:
+    oScores by school spending:
+    oScores by school size:
+    oScores by school type:
 
 
 
 
 ## Summary
+
+There were four changes that occured when data for ninth-graders was changed to NaN: 
+
+1. Number of total students in the district
+2. Number of total students in Thomas High School
+3. Average scores for math and reading
+4. Overall percentages for math and reading
+
+Although the changes listed above would seem to have a large affect on the overall results on the analysis, as seen above in the results section, there was no significant and detrimental affect on the dataset or overall analysis after making said changes.
