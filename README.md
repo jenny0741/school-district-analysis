@@ -1,4 +1,4 @@
-# School District Analysis (Give different title)
+# Analysis on standardized test data for High Schools
 ## Purpose
 
 Standardized test data for math and reading from various schools within a district were used to conduct an analysis. The purpose of this analysis was to provide insight on performance trends that would be used to aid in making decisions on both a school and district level.
@@ -27,8 +27,9 @@ The first image shows the school summary prior to changing ninth-grade math and 
 
 By changing all ninth-grade scores to NaN, there was no major affect on the performance of Thomas High School. Below are images indicating the top 5 schools in the district. As seen below, the first image which is prior to changes to the ninth-grade scores indicates that Thomas High School is the second highest performing school. In the second image, which is after changes to the ninth-grade scores still shows Thomas High School as the second highest performing school. Thus it can be concluded that changing the ninth-grade scores did not affect the overall performance of Thomas High School.
 
+![top5_before_ninth_grade_change](top5_before_ninth_grade_change.png)
 
-
+![top5_after_ninth_grade_change](top5_after_ninth_grade_change.png)
 
 ### •	Affect on:
     o	Math and reading scores:
