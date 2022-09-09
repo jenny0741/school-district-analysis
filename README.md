@@ -6,9 +6,9 @@ Standardized test data for math and reading from various schools within a distri
 ## Results
 
 ### •	District Summary: 
-           By altering ninth-grade student data for Thomas High School, you could only see a slight change in the district summary data. This means ninth-grade scores              for math and reading did not necessarily contribute or make a difference to the overall average of the school's scores.
+           By altering ninth-grade student data for Thomas High School, you could only see a slight change in the district summary data. This means ninth-grade scores for math and reading did not necessarily contribute or make a difference to the overall average of the school's scores.
            
-           ![district_summary_before_ninth_grade_change](district_summary_before_ninth_grade_change.png)
+ ![district_summary_before_ninth_grade_change](district_summary_before_ninth_grade_change.png)
 
 
 ### •	School Summary
