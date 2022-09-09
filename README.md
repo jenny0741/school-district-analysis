@@ -10,6 +10,7 @@ By altering ninth-grade student data for Thomas High School, you could only see 
            
  ![district_summary_before_ninth_grade_change](district_summary_before_ninth_grade_change.png)
 
+![district_summary_after_ninth_grade_change](district_summary_after_ninth_grade_change.png)
 
 ### •	School Summary
 ### •	Affect on Thomas High School’s performance
