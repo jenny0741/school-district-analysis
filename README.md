@@ -37,6 +37,8 @@ By changing all ninth-grade scores to NaN, there was no major affect on the perf
    o Scores by school size
    o Scores by school type
 
+Comparing the two per school summaries below, the first image which holds data prior to changing ninth-grade scores is almost identical to the second image which shows data after changing the ninth-grade scores. There was no large or significant affect on the data for math and reading scores, scores by school spending, scores by school size, or scores by school type.
+
 ![per_school_summary_before_ninth_grade_change](per_school_summary_before_ninth_grade_change.png)
 
 ![per_school_summary_after_ninth_grade_change](per_school_summary_after_ninth_grade_change.png)
