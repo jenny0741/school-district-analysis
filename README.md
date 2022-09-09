@@ -37,8 +37,9 @@ By changing all ninth-grade scores to NaN, there was no major affect on the perf
     oScores by school size:
     oScores by school type:
 
+![per_school_summary_before_ninth_grade_change](per_school_summary_before_ninth_grade_change.png)
 
-
+![per_school_summary_after_ninth_grade_change](per_school_summary_after_ninth_grade_change.png)
 
 ## Summary
 
