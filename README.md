@@ -32,10 +32,10 @@ By changing all ninth-grade scores to NaN, there was no major affect on the perf
 ![top5_after_ninth_grade_change](top5_after_ninth_grade_change.png)
 
 ### •	Affect on:
-    oMath and reading scores:
-    oScores by school spending:
-    oScores by school size:
-    oScores by school type:
+   o Math and reading scores
+   o Scores by school spending
+   o Scores by school size
+   o Scores by school type
 
 ![per_school_summary_before_ninth_grade_change](per_school_summary_before_ninth_grade_change.png)
 
