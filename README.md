@@ -14,6 +14,12 @@ The first image shows the district summary prior to changing ninth-grade math an
 ![district_summary_after_ninth_grade_change](district_summary_after_ninth_grade_change.png)
 
 ### •	School Summary
+
+
+![school_summary_before_ninth_grade_change](school_summary_before_ninth_grade_change.png)
+
+![school_summary_after_ninth_grade_change](school_summary_after_ninth_grade_change.png)
+
 ### •	Affect on Thomas High School’s performance
 ### •	Affect on:
     o	Math and reading scores:
