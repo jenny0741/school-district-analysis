@@ -15,6 +15,9 @@ The first image shows the district summary prior to changing ninth-grade math an
 
 ### •	School Summary
 
+Similar to the results in the district summary, there is only a slight insignificant change to the overall scores and percentages of Thomas High School after removing the scores for ninth-graders.
+
+The first image shows the school summary prior to changing ninth-grade math and reading scores to NaN. The second image is after the scores have been changed. 
 
 ![school_summary_before_ninth_grade_change](school_summary_before_ninth_grade_change.png)
 
